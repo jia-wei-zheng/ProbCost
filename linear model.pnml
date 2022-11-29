@@ -7,9 +7,9 @@
           <text>p_2</text>
         </name>
       </place>
-      <place id="p_0">
+      <place id="p_3">
         <name>
-          <text>p_0</text>
+          <text>p_3</text>
         </name>
       </place>
       <place id="p_0">
@@ -40,16 +40,16 @@
           <text>b</text>
         </name>
       </transition>
-      <arc id="154917784842" source="p_1" target="c"/>
-      <arc id="154887464331" source="p_0" target="b"/>
-      <arc id="154887464364" source="b" target="p_1"/>
-      <arc id="154887464274" source="a" target="p_0"/>
-      <arc id="154917785010" source="c" target="p_2"/>
-      <arc id="154887464253" source="p_0" target="a"/>
+      <arc id="119198051744" source="p_0" target="a"/>
+      <arc id="119198051747" source="p_2" target="c"/>
+      <arc id="119198051699" source="c" target="p_3"/>
+      <arc id="119198051705" source="p_1" target="b"/>
+      <arc id="119198051804" source="a" target="p_1"/>
+      <arc id="119198051711" source="b" target="p_2"/>
     </page>
     <finalmarkings>
       <marking>
-        <place idref="p_2">
+        <place idref="p_3">
           <text>1</text>
         </place>
       </marking>
