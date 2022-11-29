@@ -9,7 +9,7 @@ This repo is the official implementation for the paper Alignment-based Conforman
 
 ## First example
 
-The *example.py* file shows a first starting example. 
+The `example.py` file shows a first starting example. 
 
 We provide two simple process model with 3 activities in `pnml` file format, one of which is a branching process model:
 
