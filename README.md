@@ -11,7 +11,7 @@ This repo is the official implementation for the paper Alignment-based Conforman
 
 The *example.py* file shows a first starting example. 
 
-We provide two simple process model with 3 activities in `pnml` file format, one of which is a branch process model:
+We provide two simple process model with 3 activities in `pnml` file format, one of which is a branching process model:
 
 ![branch](./img/branch.png)
 
@@ -21,7 +21,7 @@ another is a linear process model:
 
 The probabilistic matrix of uncertain events in provided in `events.csv` file, where you can change the probabilities of events and play around results. 
 
-You can also start playing the algorithm with below code:
+You can also start playing the algorithm with the following code:
 
 ```python
 import sys 
