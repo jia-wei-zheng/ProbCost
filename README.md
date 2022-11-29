@@ -42,7 +42,8 @@ model_dic["fm"] = fm1
 
 import probabilistic_alignments # import probabilistic alignment algorithm
 
-result =  probabilistic_alignments.apply(df, model_dic, 0.4)
+# Input probabilistic matrix of events, process model, and threshold epsilon for alignment
+result =  probabilistic_alignments.apply(df, model_dic, 0.4) 
 print(result)
 ```
 
